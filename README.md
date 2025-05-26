@@ -12,7 +12,7 @@
 
 
 - 배열 (Array) <br>
-  고정된 타입의 데이터를 연속된 메모리 공간에 저장
+  고정된 타입의 데이터를 연속된 메모리 공간에 저장 <br>
   NumPy의 ndarray, PyTorch의 Tensor, TensorFlow의 Tensor → 전부 내부적으로 배열 기반
 
 
