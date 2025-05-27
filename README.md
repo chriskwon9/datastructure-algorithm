@@ -24,5 +24,5 @@
 
 
 - 스택 (Stack) <br>
-  LIFO : 나중에 넣은게 먼저 나오는 구조
+  LIFO(Last in First out) : 나중에 넣은게 먼저 나오는 구조
   
