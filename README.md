@@ -25,4 +25,7 @@
 
 - 스택 (Stack) <br>
   LIFO(Last in First out) : 나중에 넣은게 먼저 나오는 구조
+
   
+- 큐 (Queue) <br>
+  FIFO(First in First out) : 먼저 넣은게 먼저 나오는 구조
